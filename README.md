@@ -24,5 +24,6 @@ Users can provide the URL of a company’s careers page, and the tool will autom
    pip install -r requirements.txt
 
 3. Run the Streamlit application:
-    streamlit run app/main.py
+    ```bash
+   streamlit run app/main.py
 
